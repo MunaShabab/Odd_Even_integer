@@ -1,0 +1,7 @@
+E:\CISS222\chapter3Homework\Exercise33\bin\Debug\Exercise33.exe.config
+E:\CISS222\chapter3Homework\Exercise33\bin\Debug\Exercise33.exe
+E:\CISS222\chapter3Homework\Exercise33\bin\Debug\Exercise33.pdb
+E:\CISS222\chapter3Homework\Exercise33\obj\Debug\Exercise33.csprojAssemblyReference.cache
+E:\CISS222\chapter3Homework\Exercise33\obj\Debug\Exercise33.csproj.CoreCompileInputs.cache
+E:\CISS222\chapter3Homework\Exercise33\obj\Debug\Exercise33.exe
+E:\CISS222\chapter3Homework\Exercise33\obj\Debug\Exercise33.pdb
